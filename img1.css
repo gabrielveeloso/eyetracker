@@ -1,0 +1,12 @@
+.img1{
+    padding-top: 15px;
+    width: 100%;
+    height: auto;
+}
+
+a{
+    position: absolute;
+    left: 500px;
+    color: black;
+    font-size: 15px;
+}

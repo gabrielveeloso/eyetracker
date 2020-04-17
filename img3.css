@@ -1,0 +1,12 @@
+.img3{
+    padding-left: 7%;
+    width: auto;
+    height: 100%;
+}
+
+a{
+    position: absolute;
+    left: 500px;
+    color: black;
+    font-size: 15px;
+}

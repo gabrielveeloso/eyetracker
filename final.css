@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+p{
+    padding-bottom: 20px;
+}
