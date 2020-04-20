@@ -7,6 +7,13 @@
 a{
     position: absolute;
     left: 500px;
+    top: 450px;
     color: black;
     font-size: 15px;
+}
+
+button {
+    float: right !important;
+    margin: 3px;
+    top: auto;
 }
